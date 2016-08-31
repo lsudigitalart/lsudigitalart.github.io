@@ -1,10 +1,10 @@
 # Site settings
 title: ART 2210
-tag_text: ART 2210
-description:
+tag_text: Creative Coding
+description: A bit of code.
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
