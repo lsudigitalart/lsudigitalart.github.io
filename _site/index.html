@@ -6,119 +6,15 @@
   <meta name="description" content="A bit of code.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ART 2210</title>
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="/css/main.css">
 
 </head>
 <body>
   <div class="container">
-    <h1><a href="./">Creative Coding</a></h1>
-    <p>ART 2210 Creative Coding is an applied course that focuses on creating internet based projects that impact media and culture. Students will learn current web design and development workflows with an emphasis on networked interaction and visualization. Current trends in online media will be examined with special attention paid to how projects can exist on multiple platforms such as mobile phones, tablets, and desktop computers. Through in-class exercises, projects, critique, hands-on workshops, readings and discussion we will explore the role of the digital artist/designer in a constantly evolving digital landscape. Students will develop an understanding of web technologies in order to implement creative systems.</p>
-
-<h2 id="assignments">Assignments</h2>
+    <!-- <h1><a href="./">LSU Digital Art</a></h1> -->
+    <h1 id="lsu-digital-art">LSU Digital Art</h1>
 <ul>
-  <li><a href="https://github.com/lsudigitalart/lsuart2210-hw-01">Assignment 1</a></li>
-  <li><a href="https://github.com/lsudigitalart/2210hw2">Assignment 2</a></li>
-</ul>
-
-<h2 id="dependencies">Dependencies</h2>
-<ul>
-  <li>Atom: <a href="http://atom.io">http://atom.io</a></li>
-  <li>Git: <a href="https://git-scm.com">https://git-scm.com</a></li>
-  <li>Github: <a href="http://github.com">http://github.com</a></li>
-  <li>p5.js: <a href="http://p5js.org">http://p5js.org</a></li>
-  <li><a href="https://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772">Getting Started with p5.js by Lauren McCarthy</a></li>
-  <li><a href="https://docs.google.com/document/d/1yk3bP_PSSpOtV43bXvR_NRi34WBWfM9RBCf83GoEyjQ/edit?usp=sharing">Class Syllabus</a></li>
-</ul>
-
-<h2 id="notes">Notes</h2>
-
-<h3 id="to-work-on-your-hw">To work on your HW</h3>
-<ol>
-  <li>Open terminal.</li>
-  <li><code class="highlighter-rouge">cd /to/where/you/store/your/classwork</code></li>
-  <li><code class="highlighter-rouge">git clone</code> your github repo</li>
-  <li><code class="highlighter-rouge">cd /to/the/name/of/your/repo</code></li>
-  <li>Work on your code, see “set up p5js” below.</li>
-  <li><code class="highlighter-rouge">git add -A</code> to stage your files</li>
-  <li><code class="highlighter-rouge">git commit -m "your message here"</code></li>
-  <li><code class="highlighter-rouge">git push</code></li>
-  <li><em>when you make changes…</em>
-    <ul>
-      <li><code class="highlighter-rouge">git commit -m "your message here"</code></li>
-    </ul>
-  </li>
-  <li><em>when you add or delete files…</em>
-    <ul>
-      <li><code class="highlighter-rouge">git add -A</code></li>
-    </ul>
-  </li>
-</ol>
-
-<h3 id="set-up-a-p5js-project">Set up a p5js project</h3>
-<ol>
-  <li><code class="highlighter-rouge">cd /to/your/repo</code></li>
-  <li><code class="highlighter-rouge">touch index.html</code></li>
-  <li><code class="highlighter-rouge">touch sketch.js</code></li>
-  <li><code class="highlighter-rouge">curl -LO https://github.com/processing/p5.js/releases/download/0.5.3/p5.min.js</code></li>
-  <li><code class="highlighter-rouge">atom .</code></li>
-</ol>
-
-<h3 id="to-create-a-website-from-your-code">To create a website from your code</h3>
-<ol>
-  <li><code class="highlighter-rouge">cd /your/code/directory/here</code></li>
-  <li><code class="highlighter-rouge">git checkout -b "gh-pages"</code>`</li>
-  <li><code class="highlighter-rouge">git push --set-upstream origin gh-pages</code></li>
-  <li>visit your website at: http://lsudigitalart.github.io/<your repo="" name=""></your></li>
-</ol>
-
-<h3 id="helpful-bash-commands">Helpful Bash Commands</h3>
-<ul>
-  <li>List the contents of a directory: <code class="highlighter-rouge">ls</code></li>
-  <li>Display the present working directory: <code class="highlighter-rouge">pwd</code></li>
-  <li>Open current directory in atom: <code class="highlighter-rouge">atom .</code></li>
-  <li>Traverse up a directory: <code class="highlighter-rouge">cd ..</code></li>
-  <li>Shortcut for home directory: “~”</li>
-  <li>Create a directory: <code class="highlighter-rouge">mkdir &lt;dir name&gt;</code></li>
-  <li>Create an empty file: <code class="highlighter-rouge">touch &lt;filename&gt;</code></li>
-  <li>delete a file <code class="highlighter-rouge">rm &lt;file&gt;</code></li>
-  <li>copy a file <code class="highlighter-rouge">cp &lt;source&gt; &lt;destination&gt;</code></li>
-  <li>hotkey to complete pathnames: “TAB”</li>
-  <li>to display contents of a file <code class="highlighter-rouge">cat &lt;filename&gt;</code></li>
-</ul>
-
-<h3 id="helpful-git-commands">Helpful Git Commands</h3>
-<ul>
-  <li>How to download a repo: <code class="highlighter-rouge">git clone &lt;url of repo&gt;</code></li>
-  <li>Check status of a local rep <code class="highlighter-rouge">git status</code></li>
-  <li>Take a peek at any changes made to remote repo: <code class="highlighter-rouge">git fetch</code></li>
-  <li>Download any changes made to a repo <code class="highlighter-rouge">git pull</code></li>
-  <li>See what you’ve done to your repo <code class="highlighter-rouge">git log</code></li>
-</ul>
-
-<h2 id="external-resources">External Resources</h2>
-
-<h3 id="processing">Processing</h3>
-<ul>
-  <li><a href="http://processing.org">http://processing.org</a></li>
-  <li><a href="http://p5js.org">http://p5js.org</a></li>
-</ul>
-
-<h3 id="javascript">JavaScript</h3>
-<ul>
-  <li><a href="http://www.w3schools.com/js">http://www.w3schools.com/js</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">https://developer.mozilla.org/en-US/docs/Web/JavaScript</a></li>
-</ul>
-
-<h3 id="git">Git</h3>
-<ul>
-  <li><a href="http://rogerdudler.github.io/git-guide/">http://rogerdudler.github.io/git-guide/</a></li>
-  <li><a href="https://www.atlassian.com/git/tutorials/what-is-version-control">https://www.atlassian.com/git/tutorials/what-is-version-control</a></li>
-</ul>
-
-<h3 id="terminal">Terminal</h3>
-<ul>
-  <li><a href="https://github.com/processing/p5.js/wiki/Terminal-and-the-Command-Line">https://github.com/processing/p5.js/wiki/Terminal-and-the-Command-Line</a></li>
-  <li><a href="http://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855">http://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855</a></li>
+  <li><a href="2210">ART 2210 Creative Coding</a></li>
 </ul>
 
   </div>
