@@ -83,6 +83,6 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - <https://github.com/processing/p5.js/wiki/Terminal-and-the-Command-Line>
 - <http://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855>
 
-## Misc
+### Misc
 - RGB Color Picker 1: <http://www.rapidtables.com/web/color/RGB_Color.htm>
 - RGB Color Picker 2: <http://www.w3schools.com/colors/colors_picker.asp>
