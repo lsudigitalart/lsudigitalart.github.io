@@ -43,7 +43,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 1. `cd /your/code/directory/here`
 2. `git checkout -b "gh-pages"``
 3. `git push --set-upstream origin gh-pages`
-4. visit your website at: http://lsudigitalart.github.io/<your repo name>
+4. visit your website at: http://lsudigitalart.github.io/\<your repo name\>
 
 ### Helpful Bash Commands
 - List the contents of a directory: `ls`
