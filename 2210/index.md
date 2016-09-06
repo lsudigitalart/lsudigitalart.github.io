@@ -7,6 +7,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 ## Assignments
 - [Assignment 1](https://github.com/lsudigitalart/lsuart2210-hw-01)
 - [Assignment 2](https://github.com/lsudigitalart/2210hw2)
+- [Assignment 3](https://github.com/lsudigitalart/2210hw3)
 
 ## Dependencies
 - [Class Syllabus](https://docs.google.com/document/d/1yk3bP_PSSpOtV43bXvR_NRi34WBWfM9RBCf83GoEyjQ/edit?usp=sharing)
@@ -78,6 +79,10 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 ### Git
 - <http://rogerdudler.github.io/git-guide/>
 - <https://www.atlassian.com/git/tutorials/what-is-version-control>
+
+### HTML
+- <http://www.w3schools.com/tags/>
+- <https://developer.mozilla.org/en-US/docs/Web/HTML/Element>
 
 ### Terminal
 - <https://github.com/processing/p5.js/wiki/Terminal-and-the-Command-Line>
