@@ -73,6 +73,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - <http://p5js.org>
 
 ### JavaScript
+- [JavaScript Basics](https://github.com/processing/p5.js/wiki/JavaScript-basics)
 - <http://www.w3schools.com/js>
 - <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
 
