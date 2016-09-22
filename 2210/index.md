@@ -95,3 +95,11 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - [Github Browsing Code](https://drive.google.com/file/d/0B666kg0WyOiBeGhFNWpibXBhbEU/view?usp=sharing)
 - RGB Color Picker 1: <http://www.rapidtables.com/web/color/RGB_Color.htm>
 - RGB Color Picker 2: <http://www.w3schools.com/colors/colors_picker.asp>
+
+### Creative Coders
+- Casey Reas
+- Ben Fry
+- Golan Levin
+- Lauren McCarthy
+- Daniel Shiffman
+- more to come
