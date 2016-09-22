@@ -103,3 +103,8 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - Lauren McCarthy
 - Daniel Shiffman
 - more to come
+
+### Blogs
+- Rhizome
+- Creative Applications
+- ... more to come
