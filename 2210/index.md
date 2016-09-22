@@ -116,10 +116,22 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - Justin Manor
 - Lauren McCarthy
 - Daniel Shiffman
-- Tom Friedman
+- Kyle McDonald
+- Luke DuBois
+- Nicky Case
+- Zach Lieberman
+- Theo Watson
+- Aaron Koblin
+- Brian House
+- Ben Rubine
 - Marius Watz
+- Rafael Lozano Hemmer
+- Scott Snibbe
+- Marcus Wendt
+- Jer Thorp
+- Emily Gobeille
 - https://processing.org/exhibition
-- more to come
+- ... more to come
 
 ### Blogs
 - Rhizome
