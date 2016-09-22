@@ -8,6 +8,18 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - [Assignment 1](https://github.com/lsudigitalart/lsuart2210-hw-01)
 - [Assignment 2](https://github.com/lsudigitalart/2210hw2)
 - [Assignment 3](https://github.com/lsudigitalart/2210hw3)
+- [Assignment 4](https://github.com/lsudigitalart/2210hw4)
+- [Assignment 5](https://github.com/lsudigitalart/2210hw5)
+- [Assignment 6](https://github.com/lsudigitalart/2210hw6)
+- [Assignment 7](https://github.com/lsudigitalart/2210hw7)
+- [Assignment 8](https://github.com/lsudigitalart/2210hw8)
+- [Assignment 9](https://github.com/lsudigitalart/2210hw9)
+- [Assignment 10](https://github.com/lsudigitalart/2210hw10)
+- [Assignment 11](https://github.com/lsudigitalart/2210hw11)
+- [Assignment 12](https://github.com/lsudigitalart/2210hw12)
+- [Assignment 13](https://github.com/lsudigitalart/2210hw13)
+- [Assignment 14](https://github.com/lsudigitalart/2210hw14)
+- [Assignment 15](https://github.com/lsudigitalart/2210hw15)
 
 ## Dependencies
 - [Class Syllabus](https://docs.google.com/document/d/1yk3bP_PSSpOtV43bXvR_NRi34WBWfM9RBCf83GoEyjQ/edit?usp=sharing)
@@ -66,7 +78,9 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - Download any changes made to a repo `git pull`
 - See what you've done to your repo `git log`
 
-## External Resources
+## Online Resources
+- [Class Github Repos](http://github.com/lsudigitalart)
+- [Browse in-class commit History Video](https://drive.google.com/file/d/0B666kg0WyOiBeGhFNWpibXBhbEU/view?usp=sharing)
 
 ### Processing
 - <http://processing.org>
@@ -92,7 +106,6 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - <http://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855>
 
 ### Misc
-- [Browse in-class commit History Video](https://drive.google.com/file/d/0B666kg0WyOiBeGhFNWpibXBhbEU/view?usp=sharing)
 - RGB Color Picker 1: <http://www.rapidtables.com/web/color/RGB_Color.htm>
 - RGB Color Picker 2: <http://www.w3schools.com/colors/colors_picker.asp>
 
