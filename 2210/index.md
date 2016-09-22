@@ -102,6 +102,10 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - Golan Levin
 - Lauren McCarthy
 - Daniel Shiffman
+- Justin Manor
+- Tom Friedman
+- Marius Watz
+- https://processing.org/exhibition
 - more to come
 
 ### Blogs
