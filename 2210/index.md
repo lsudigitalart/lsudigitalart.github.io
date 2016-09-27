@@ -78,6 +78,20 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - Download any changes made to a repo `git pull`
 - See what you've done to your repo `git log`
 
+### Start a server
+
+## Mac
+- open terminal
+- `cd` into your sketch directory
+- type `python -m SimpleHTTPServer`
+- visit your site at `http://localhost:8000`
+
+## Windows
+- Download and Install Python 2 from python.org
+- `cd` into your sketch directory
+- Open git bash type `C:/Python27/python.exe -m SimpleHTTPServer`
+- visit your site at `http://localhost:8000`
+
 ## Online Resources
 - [Class Github Repos](http://github.com/lsudigitalart)
 - [Browse in-class commit History Video](https://drive.google.com/file/d/0B666kg0WyOiBeGhFNWpibXBhbEU/view?usp=sharing)
