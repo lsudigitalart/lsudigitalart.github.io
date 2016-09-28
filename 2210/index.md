@@ -122,44 +122,44 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - <http://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855>
 
 ### Some Creative Coders
-- Casey Reas
-- Olia Lialina
-- John Maeda
-- Camille Utterback
-- Petra Cortright
-- Scott Snibbe
-- Aaron Koblin
-- Marius Watz
-- Eva and Franco Mattes
-- Alexei Shulgin
-- Daniel Shiffman
-- Ben Fry
-- Golan Levin
-- Myron Krueger
-- Justin Manor
-- Lauren McCarthy
-- Kyle McDonald
-- Luke DuBois
-- Nicky Case
-- Zach Lieberman
-- Theo Watson
-- Brian House
-- Ben Rubin
-- Rafael Lozano Hemmer
-- Marcus Wendt
-- Jer Thorp
-- Emily Gobeille
-- Ryoji Ikeda
-- Rafael Lozano-Hemmer
-- David Rokeby
-- Eduardo Kac
-- Mark Nappier
-- Cory Arcangel
-- Brody Condon
-- Beatriz da Costa
-- Char Davies
-- Mary Flanagan
-- Jonah Brucker-Cohen
+- [Casey Reas](https://duckduckgo.com/?q=!ducky+Casey Reas)
+- [Olia Lialina](https://duckduckgo.com/?q=!ducky+Olia Lialina)
+- [John Maeda](https://duckduckgo.com/?q=!ducky+John Maeda)
+- [Camille Utterback ](https://duckduckgo.com/?q=!ducky+Camille Utterback )
+- [Petra Cortright](https://duckduckgo.com/?q=!ducky+Petra Cortright)
+- [Scott Snibbe](https://duckduckgo.com/?q=!ducky+Scott Snibbe)
+- [Aaron Koblin](https://duckduckgo.com/?q=!ducky+Aaron Koblin)
+- [Marius Watz](https://duckduckgo.com/?q=!ducky+Marius Watz)
+- [Eva and Franco Mattes](https://duckduckgo.com/?q=!ducky+Eva and Franco Mattes)
+- [Alexei Shulgin](https://duckduckgo.com/?q=!ducky+Alexei Shulgin)
+- [Daniel Shiffman](https://duckduckgo.com/?q=!ducky+Daniel Shiffman)
+- [Ben Fry](https://duckduckgo.com/?q=!ducky+Ben Fry)
+- [Golan Levin](https://duckduckgo.com/?q=!ducky+Golan Levin)
+- [Myron Krueger](https://duckduckgo.com/?q=!ducky+Myron Krueger)
+- [Justin Manor](https://duckduckgo.com/?q=!ducky+Justin Manor)
+- [Lauren McCarthy](https://duckduckgo.com/?q=!ducky+Lauren McCarthy)
+- [Kyle McDonald](https://duckduckgo.com/?q=!ducky+Kyle McDonald)
+- [Luke DuBois](https://duckduckgo.com/?q=!ducky+Luke DuBois)
+- [Nicky Case](https://duckduckgo.com/?q=!ducky+Nicky Case)
+- [Zach Lieberman](https://duckduckgo.com/?q=!ducky+Zach Lieberman)
+- [Theo Watson](https://duckduckgo.com/?q=!ducky+Theo Watson)
+- [Brian House](https://duckduckgo.com/?q=!ducky+Brian House)
+- [Ben Rubin](https://duckduckgo.com/?q=!ducky+Ben Rubin)
+- [Rafael Lozano Hemmer](https://duckduckgo.com/?q=!ducky+Rafael Lozano Hemmer)
+- [Marcus Wendt](https://duckduckgo.com/?q=!ducky+Marcus Wendt)
+- [Jer Thorp](https://duckduckgo.com/?q=!ducky+Jer Thorp)
+- [Emily Gobeille](https://duckduckgo.com/?q=!ducky+Emily Gobeille)
+- [Ryoji Ikeda](https://duckduckgo.com/?q=!ducky+Ryoji Ikeda)
+- [Rafael Lozano-Hemmer](https://duckduckgo.com/?q=!ducky+Rafael Lozano-Hemmer)
+- [David Rokeby](https://duckduckgo.com/?q=!ducky+David Rokeby)
+- [Eduardo Kac](https://duckduckgo.com/?q=!ducky+Eduardo Kac)
+- [Mark Nappier](https://duckduckgo.com/?q=!ducky+Mark Nappier)
+- [Cory Arcangel](https://duckduckgo.com/?q=!ducky+Cory Arcangel)
+- [Brody Condon](https://duckduckgo.com/?q=!ducky+Brody Condon)
+- [Beatriz da Costa](https://duckduckgo.com/?q=!ducky+Beatriz da Costa)
+- [Char Davies](https://duckduckgo.com/?q=!ducky+Char Davies)
+- [Mary Flanagan](https://duckduckgo.com/?q=!ducky+Mary Flanagan)
+- [Jonah Brucker-Cohen](https://duckduckgo.com/?q=!ducky+Jonah Brucker-Cohen)
 
 ### Inspiration
 - http://eyeofestival.com/
