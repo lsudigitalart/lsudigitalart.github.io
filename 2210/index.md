@@ -92,7 +92,9 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
   - Open git bash type `C:/Python27/python.exe -m SimpleHTTPServer`
   - visit your site at `http://localhost:8000`
 
-## Online Resources
+## Resources
+
+### Course Specific
 - [Class Github Repos](http://github.com/lsudigitalart)
 - [How to browse in-class commit history](https://drive.google.com/file/d/0B666kg0WyOiBeGhFNWpibXBhbEU/view?usp=sharing)
 
