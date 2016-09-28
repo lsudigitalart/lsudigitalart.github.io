@@ -103,9 +103,9 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - <http://openprocessing.org>
 
 ### JavaScript
-- [JavaScript Basics](https://github.com/processing/p5.js/wiki/JavaScript-basics)
-- <http://www.w3schools.com/js>
-- <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
+- [p5.js Wiki JavaScript Basics](https://github.com/processing/p5.js/wiki/JavaScript-basics)
+- [W3 Schools JavaScript Reference](http://www.w3schools.com/js)
+- [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Git
 - <http://rogerdudler.github.io/git-guide/>
@@ -118,10 +118,6 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 ### Terminal
 - <https://github.com/processing/p5.js/wiki/Terminal-and-the-Command-Line>
 - <http://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855>
-
-### Misc
-- RGB Color Picker 1: <http://www.rapidtables.com/web/color/RGB_Color.htm>
-- RGB Color Picker 2: <http://www.w3schools.com/colors/colors_picker.asp>
 
 ### Some Creative Coders
 - Casey Reas
