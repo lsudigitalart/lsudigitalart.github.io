@@ -94,7 +94,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 
 ## Online Resources
 - [Class Github Repos](http://github.com/lsudigitalart)
-- [Browse in-class commit History Video](https://drive.google.com/file/d/0B666kg0WyOiBeGhFNWpibXBhbEU/view?usp=sharing)
+- [How to browse in-class commit history](https://drive.google.com/file/d/0B666kg0WyOiBeGhFNWpibXBhbEU/view?usp=sharing)
 
 ### Processing
 - <http://processing.org>
