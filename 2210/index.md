@@ -86,7 +86,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - type `python -m SimpleHTTPServer`
 - visit your site at `http://localhost:8000`
 
-**Windows**
+**Windows** 
 - Download and Install Python 2 from python.org
 - `cd` into your sketch directory
 - Open git bash type `C:/Python27/python.exe -m SimpleHTTPServer`
@@ -152,7 +152,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
   - [Mark Nappier, *Shredder*]
   - [Shu Lea Cheang, *Brandon*]
   - [Jenny Odell, *Garbage*](http://www.jennyodell.com/garbage.html)
-  - [Adriene Jenik, *Desktop Theater*, 1997-2002
+  - [Adriene Jenik, *Desktop Theater*, 1997-2002](http://149.169.27.73/~adriene/projects_dt.html)
 
 ### Inspiration
 - http://eyeofestival.com/
