@@ -144,16 +144,19 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - Marcus Wendt
 - Jer Thorp
 - Emily Gobeille
+
+## Individual Works by Assignment
 - **Collage**
   - Adam Grey
   - Jodi
-  - Mark Nappier, *Shredder*
-  - Shu Lea Cheang, *Brandon*
-  - http://www.jennyodell.com/garbage.html
+  - [Mark Nappier, *Shredder*]
+  - [Shu Lea Cheang, *Brandon*]
+  - [Jenny Odell, *Garbage*](http://www.jennyodell.com/garbage.html)
+  - [Adriene Jenik, *Desktop Theater*, 1997-2002
 
 ### Inspiration
 - http://eyeofestival.com/
 - https://processing.org/exhibition
 - Rhizome
 - Creative Applications
-- ... more to come
+- ...
