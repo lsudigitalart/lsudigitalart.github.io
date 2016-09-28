@@ -80,17 +80,17 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 
 ### Start a server
 
-**Mac**  
-- open terminal
-- `cd` into your sketch directory
-- type `python -m SimpleHTTPServer`
-- visit your site at `http://localhost:8000`
+- **Mac**
+  - open terminal
+  - `cd` into your sketch directory
+  - type `python -m SimpleHTTPServer`
+  - visit your site at `http://localhost:8000`
 
-**Windows**  
-- Download and Install Python 2 from python.org
-- `cd` into your sketch directory
-- Open git bash type `C:/Python27/python.exe -m SimpleHTTPServer`
-- visit your site at `http://localhost:8000`
+- **Windows**
+  - Download and Install Python 2 from python.org
+  - `cd` into your sketch directory
+  - Open git bash type `C:/Python27/python.exe -m SimpleHTTPServer`
+  - visit your site at `http://localhost:8000`
 
 ## Online Resources
 - [Class Github Repos](http://github.com/lsudigitalart)
@@ -125,11 +125,19 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 
 ### Creative Coders
 - Casey Reas
+- Olia Lialina
+- John Maeda
+- Camille Utterback
+- Scott Snibbe
+- Marius Watz
+- Eva and Franco Mattes
+- Alexei Shulgin
+- Daniel Shiffman
 - Ben Fry
 - Golan Levin
+- Myron Krueger
 - Justin Manor
 - Lauren McCarthy
-- Daniel Shiffman
 - Kyle McDonald
 - Luke DuBois
 - Nicky Case
@@ -137,22 +145,22 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - Theo Watson
 - Aaron Koblin
 - Brian House
-- Ben Rubine
-- Marius Watz
+- Ben Rubin
 - Rafael Lozano Hemmer
-- Scott Snibbe
 - Marcus Wendt
 - Jer Thorp
 - Emily Gobeille
-
-## Individual Works by Assignment
-- **Collage**
-  - Adam Grey
-  - Jodi
-  - [Mark Nappier, *Shredder*]
-  - [Shu Lea Cheang, *Brandon*]
-  - [Jenny Odell, *Garbage*](http://www.jennyodell.com/garbage.html)
-  - [Adriene Jenik, *Desktop Theater*, 1997-2002](http://149.169.27.73/~adriene/projects_dt.html)
+- Ryoji Ikeda
+- Rafael Lozano-Hemmer
+- David Rokeby
+- Eduardo Kac
+- Mark Nappier
+- Cory Arcangel
+- Brody Condon
+- Petra Cortright
+- Beatriz da Costa
+- Char Davies
+- Mary Flanagan
 
 ### Inspiration
 - http://eyeofestival.com/
