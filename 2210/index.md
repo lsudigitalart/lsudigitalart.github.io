@@ -123,12 +123,14 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - RGB Color Picker 1: <http://www.rapidtables.com/web/color/RGB_Color.htm>
 - RGB Color Picker 2: <http://www.w3schools.com/colors/colors_picker.asp>
 
-### Creative Coders
+### Some Creative Coders
 - Casey Reas
 - Olia Lialina
 - John Maeda
 - Camille Utterback
+- Petra Cortright
 - Scott Snibbe
+- Aaron Koblin
 - Marius Watz
 - Eva and Franco Mattes
 - Alexei Shulgin
@@ -143,7 +145,6 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - Nicky Case
 - Zach Lieberman
 - Theo Watson
-- Aaron Koblin
 - Brian House
 - Ben Rubin
 - Rafael Lozano Hemmer
@@ -157,10 +158,10 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - Mark Nappier
 - Cory Arcangel
 - Brody Condon
-- Petra Cortright
 - Beatriz da Costa
 - Char Davies
 - Mary Flanagan
+- Jonah Brucker-Cohen
 
 ### Inspiration
 - http://eyeofestival.com/
