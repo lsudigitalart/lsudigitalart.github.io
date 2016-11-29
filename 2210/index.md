@@ -5,19 +5,19 @@ layout: default
 ART 2210 Creative Coding is an applied course that focuses on creating internet based projects that impact media and culture. Students will learn current web design and development workflows with an emphasis on networked interaction and visualization. Current trends in online media will be examined with special attention paid to how projects can exist on multiple platforms such as mobile phones, tablets, and desktop computers. Through in-class exercises, projects, critique, hands-on workshops, readings and discussion we will explore the role of the digital artist/designer in a constantly evolving digital landscape. Students will develop an understanding of web technologies in order to implement creative systems.
 
 ## Assignments
-- [Assignment 1](https://github.com/lsudigitalart/lsuart2210-hw-01) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw-01)
-- [Assignment 2](https://github.com/lsudigitalart/2210hw2) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw2)
-- [Assignment 3](https://github.com/lsudigitalart/2210hw3) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw3)
-- [Assignment 4](https://github.com/lsudigitalart/2210hw4) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw4)
-- [Assignment 5](https://github.com/lsudigitalart/2210hw5) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw5)
-- [Assignment 6](https://github.com/lsudigitalart/2210hw6) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw6)
-- [Assignment 7](https://github.com/lsudigitalart/2210hw7) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw7)
-- [Assignment 8](https://github.com/lsudigitalart/2210hw8) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw8)
-- [Assignment 9](https://github.com/lsudigitalart/2210hw9) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw9)
-- [Assignment 10](https://github.com/lsudigitalart/2210hw10) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw10)
-- [Assignment 11](https://github.com/lsudigitalart/2210hw11) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw11)
-- [Assignment 12](https://github.com/lsudigitalart/2210hw12) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw12)
-- [Assignment 13](https://github.com/lsudigitalart/2210hw13) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw13)
+- [Assignment 1](https://github.com/lsudigitalart/lsuart2210-hw-01) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw-01) [(Example)](https://github.com/lsudigitalart/2210-hw-01-fredeerock)
+- [Assignment 2](https://github.com/lsudigitalart/2210hw2) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw2) [(Example)](https://github.com/lsudigitalart/2210hw2-fredeerock)
+- [Assignment 3](https://github.com/lsudigitalart/2210hw3) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw3) [(Example)](https://github.com/lsudigitalart/2210hw3-fredeerock)
+- [Assignment 4](https://github.com/lsudigitalart/2210hw4) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw4) [(Example)](https://github.com/lsudigitalart/2210hw4-fredeerock)
+- [Assignment 5](https://github.com/lsudigitalart/2210hw5) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw5) [(Example)](https://github.com/lsudigitalart/2210hw5-fredeerock)
+- [Assignment 6](https://github.com/lsudigitalart/2210hw6) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw6) [(Example)](https://github.com/lsudigitalart/2210hw6-fredeerock)
+- [Assignment 7](https://github.com/lsudigitalart/2210hw7) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw7) [(Example)](https://github.com/lsudigitalart/2210hw7-fredeerock)
+- [Assignment 8](https://github.com/lsudigitalart/2210hw8) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw8) [(Example)](https://github.com/lsudigitalart/2210hw8-fredeerock)
+- [Assignment 9](https://github.com/lsudigitalart/2210hw9) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw9) [(Example)](https://github.com/lsudigitalart/2210hw9-fredeerock)
+- [Assignment 10](https://github.com/lsudigitalart/2210hw10) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw10) [(Example)](https://github.com/lsudigitalart/2210hw10-fredeerock)
+- [Assignment 11](https://github.com/lsudigitalart/2210hw11) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw11) [(Example)](https://github.com/lsudigitalart/2210hw11-fredeerock)
+- [Assignment 12](https://github.com/lsudigitalart/2210hw12) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw12) [(Example)](https://github.com/lsudigitalart/2210hw12-fredeerock)
+- [Assignment 13](https://github.com/lsudigitalart/2210hw13) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw13) [(Example)](https://github.com/lsudigitalart/2210hw13-fredeerock)
 - ~~[Assignment 14](https://github.com/lsudigitalart/2210hw14) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw14)~~
 - ~~[Assignment 15](https://github.com/lsudigitalart/2210hw15) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw15)~~
 
