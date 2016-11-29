@@ -18,8 +18,8 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - [Assignment 11](https://github.com/lsudigitalart/2210hw11) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw11)
 - [Assignment 12](https://github.com/lsudigitalart/2210hw12) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw12)
 - [Assignment 13](https://github.com/lsudigitalart/2210hw13) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw13)
-- [Assignment 14](https://github.com/lsudigitalart/2210hw14) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw14)
-- [Assignment 15](https://github.com/lsudigitalart/2210hw15) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw15)
+- ~~[Assignment 14](https://github.com/lsudigitalart/2210hw14) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw14)~~
+- ~~[Assignment 15](https://github.com/lsudigitalart/2210hw15) [(Submissions)](https://github.com/lsudigitalart?utf8=%E2%9C%93&query=hw15)~~
 
 ## Dependencies
 - [Class Syllabus](https://docs.google.com/document/d/1yk3bP_PSSpOtV43bXvR_NRi34WBWfM9RBCf83GoEyjQ/edit?usp=sharing)
