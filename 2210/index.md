@@ -14,10 +14,10 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - [Assignment 07](https://github.com/lsudigitalart/2210hw7)  [(Submissions)](https://github.com/lsudigitalart?q=2210hw7)   [(Example)](https://github.com/lsudigitalart/2210hw7-fredeerock)
 - [Assignment 08](https://github.com/lsudigitalart/2210hw8)  [(Submissions)](https://github.com/lsudigitalart?q=2210hw8)   [(Example)](https://github.com/lsudigitalart/2210hw8-fredeerock)
 - [Assignment 09](https://github.com/lsudigitalart/2210hw9)  [(Submissions)](https://github.com/lsudigitalart?q=2210hw9)   [(Example)](https://github.com/lsudigitalart/2210hw9-fredeerock)
-- [Assignment 10](https://github.com/lsudigitalart/2210hw10) [(Submissions)](https://github.com/lsudigitalart?q=2210hw10) [(Example)](https://github.com/lsudigitalart/2210hw10-fredeerock)
-- [Assignment 11](https://github.com/lsudigitalart/2210hw11) [(Submissions)](https://github.com/lsudigitalart?q=2210hw11) [(Example)](https://github.com/lsudigitalart/2210hw11-fredeerock)
-- [Assignment 12](https://github.com/lsudigitalart/2210hw12) [(Submissions)](https://github.com/lsudigitalart?q=2210hw12) [(Example)](https://github.com/lsudigitalart/2210hw12-fredeerock)
-- [Assignment 13](https://github.com/lsudigitalart/2210hw13) [(Submissions)](https://github.com/lsudigitalart?q=2210hw13) [(Example)](https://github.com/lsudigitalart/2210hw13-fredeerock)
+- [Assignment 10](https://github.com/lsudigitalart/2210hw10) [(Submissions)](https://github.com/lsudigitalart?q=2210hw10)  [(Example)](https://github.com/lsudigitalart/2210hw10-fredeerock)
+- [Assignment 11](https://github.com/lsudigitalart/2210hw11) [(Submissions)](https://github.com/lsudigitalart?q=2210hw11)  [(Example)](https://github.com/lsudigitalart/2210hw11-fredeerock)
+- [Assignment 12](https://github.com/lsudigitalart/2210hw12) [(Submissions)](https://github.com/lsudigitalart?q=2210hw12)  [(Example)](https://github.com/lsudigitalart/2210hw12-fredeerock)
+- [Assignment 13](https://github.com/lsudigitalart/2210hw13) [(Submissions)](https://github.com/lsudigitalart?q=2210hw13)  [(Example)](https://github.com/lsudigitalart/2210hw13-fredeerock)
 
 ## Dependencies
 - [Class Syllabus](https://docs.google.com/document/d/1yk3bP_PSSpOtV43bXvR_NRi34WBWfM9RBCf83GoEyjQ/edit?usp=sharing)
