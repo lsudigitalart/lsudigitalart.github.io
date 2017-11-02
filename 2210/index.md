@@ -89,8 +89,6 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
   - `cd` into your sketch directory
   - Open command prompt or git bash and type `C:/Python27/python.exe -m SimpleHTTPServer`
   - visit your site at `http://localhost:8000`
-  
-*Note: If you have Python 3 on windows you can use `C:/Python36/python.exe - m http.server`*
 
 ## Resources
 
