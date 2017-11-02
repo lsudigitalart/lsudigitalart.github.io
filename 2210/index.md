@@ -87,8 +87,10 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - **Windows**
   - Download and Install Python 2 from python.org
   - `cd` into your sketch directory
-  - Open git bash type `C:/Python27/python.exe -m SimpleHTTPServer`
+  - Open command prompt or git bash and type `C:/Python27/python.exe -m SimpleHTTPServer`
   - visit your site at `http://localhost:8000`
+  
+*Note: If you have Python 3 on windows you can use `C:/Python36/python.exe - m http.server`*
 
 ## Resources
 
