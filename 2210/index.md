@@ -25,7 +25,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 ## Dependencies
 - [Class Syllabus](https://docs.google.com/document/d/1yk3bP_PSSpOtV43bXvR_NRi34WBWfM9RBCf83GoEyjQ/edit?usp=sharing)
 - [Getting Started with p5.js by Lauren McCarthy](https://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772)
-- Atom: <http://atom.io>
+- Visual Studio Code <https://code.visualstudio.com>
 - Git: <https://git-scm.com>
 - Github: <http://github.com>
 - p5.js: <http://p5js.org>
