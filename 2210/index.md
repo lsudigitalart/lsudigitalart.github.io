@@ -28,7 +28,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - Visual Studio Code <https://code.visualstudio.com>
 - Git: <https://git-scm.com>
 - Github: <http://github.com>
-- p5.js: <http://p5js.org>
+- p5.js: <http://p5js.org> (use p5.min.js)
 
 ## Notes
 
