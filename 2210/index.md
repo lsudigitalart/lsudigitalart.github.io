@@ -54,7 +54,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 
 ~~### To create a website from your code~~
 ~~1. `cd /your/code/directory/here`~~
-~~2. `git checkout -b "gh-pages"``~~
+~~2. `git checkout -b "gh-pages"`~~
 ~~3. `git push --set-upstream origin gh-pages`~~
 ~~4. visit your website at: http://lsudigitalart.github.io/\<your repo name\>~~
 
