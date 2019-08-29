@@ -32,26 +32,30 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 ## Notes
 
 ### Set up a p5.js project
-1. `cd /to/your/repo`
-3. `touch index.html`
-4. `touch sketch.js`
-5. `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js`
-6. `code .`
+1. `cd /to/where/you/store/your/classwork`
+2. `mkdir <folder name>` to create a new folder for your project.
+3. `touch index.html` to create an empty index.html file.
+4. `touch sketch.js` to create an empty sketch.js file.
+5. `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js` to download p5.js to your project folder.
+6. Open the **folder** in your text editor using `File > Open` or by using something like `code .` in terminal if you're using VS Code and have command line capabilities installed.
 
 ### To work on your HW
-1. Open terminal.
+1. Click the assignment invite button on this page to have GitHub automatically create a repo for you. Note the URL given to you on this page.
+1. Open Terminal (Mac) or Git Bash (Windows).
 1. `cd /to/where/you/store/your/classwork`
-1. `git clone` your github repo
+1. `git clone <repository url>` The URL here should be for the repo GitHub made for you in the first step. 
 1. `cd /to/the/name/of/your/repo`
-1. Work on your code, see "set up p5.js" below.
-1. `git add -A` to stage your files
-1. `git commit -m "your message here"`
+1. Work on your code, see "set up p5.js" above.
+
+### To upload your code to GitHub
+1. `git add -A` This lets GitHub know you want all your files to be added. 
+1. `git commit -m "your message here"` Commiting  
 1. `git push`
-1. **When you make changes...**
-  - `git commit -am "your message here"`
-  - `git push`
-1. **When you add or delete files...**
-  - `git add -A`
+
+### When you make changes and need to uplaod again
+1. *If you've added or deleted files first use `git add -A`, otherwise procedd to the next step.*
+1. `git commit -am "your message here"`
+1. `git push`
   
 ### To create a website from your GitHub code
 1. Go to your GitHub repo website.
