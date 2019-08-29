@@ -48,7 +48,8 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 1. `git commit -m "your message here"`
 1. `git push`
 1. *when you make changes...*
-  - `git commit -m "your message here"`
+  - `git commit -am "your message here"`
+  - `git push`
 1. *when you add or delete files...*
   - `git add -A`
   
