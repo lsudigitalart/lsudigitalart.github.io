@@ -45,17 +45,12 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 1. `cd /to/where/you/store/your/classwork`
 1. `git clone <repository url>` The URL here should be for the repo GitHub made for you in the first step. 
 1. `cd /to/the/name/of/your/repo`
-1. Work on your code, see "set up p5.js" above.
+1. Now you're ready to work on your code!
 
 ### To upload your code to GitHub
-1. `git add -A` This lets GitHub know you want all your files to be added. 
-1. `git commit -m "your message here"` Commiting  
-1. `git push`
-
-### When you make changes and need to uplaod again
-1. *If you've added or deleted files first use `git add -A`, otherwise procedd to the next step.*
-1. `git commit -am "your message here"`
-1. `git push`
+1. `git add -A` This lets GitHub know you want all your files to be added. If you're already run this before and there isn't anything new you don't have to run it again. 
+1. `git commit -am "your message here"` This creates a snapshot of the changes you've made along with a message describing them.  
+1. `git push` This uploads your code to GitHub.
   
 ### To create a website from your GitHub code
 1. Go to your GitHub repo website.
