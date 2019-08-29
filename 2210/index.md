@@ -36,16 +36,17 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 ### To work on your HW
 1. Click the assignment **invite** button on this page to have GitHub automatically create a repo for you. Note the *repository URL* given to you here.
 1. Open **Terminal** (Mac) or **Git Bash** (Windows).
-1. `cd /to/where/you/store/your/classwork` For instance, your (My) Documents folder would work well.
+1. `cd /to/where/you/store/your/classwork` For instance, a "Creative Coiding" folder inside "(My) Documents" would work well.
 1. `git clone <repository url>` The URL here should be for the repo GitHub made for you in the first step. 
-1. `cd /to/the/name/of/your/repo`
+1. `ls` to get the names of the files in this folder
+1. `cd /to/the/name/of/your/repo` You can see what your repo is called from the output of the previous command.
 1. Now you're ready to work on your code!
 
 ### Set up a p5.js project
+1. Open the repo **folder** in your text editor with `File > Open` or by using something like `code .` in terminal if you're using VS Code and have command line capabilities installed.
 1. Use `touch index.html` in terminal to create an empty index.html file or use your file editor to make a new file named index.html.
 1. Use `touch sketch.js` in terminal to create an empty sketch.js file or use your file editor to make a new file named sketch.js.
 1. In terminal use `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js` to download p5.js to your project folder.
-1. Open the **folder** in your text editor using `File > Open` or by using something like `code .` in terminal if you're using VS Code and have command line capabilities installed.
 
 ### To upload your code to GitHub
 1. `git add -A` This lets GitHub know you want all your files to be added. If you're already run this before and there isn't anything new you don't have to run it again. 
