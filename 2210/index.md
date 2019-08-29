@@ -4,6 +4,11 @@ layout: default
 # [&#8598;](/) [Creative Coding](.)
 ART 2210 Creative Coding is an applied course that focuses on creating internet based projects that impact media and culture. Students will learn current web design and development workflows with an emphasis on networked interaction and visualization. Current trends in online media will be examined with special attention paid to how projects can exist on multiple platforms such as mobile phones, tablets, and desktop computers. Through in-class exercises, projects, critique, hands-on workshops, readings and discussion we will explore the role of the digital artist/designer in a constantly evolving digital landscape. Students will develop an understanding of web technologies in order to implement creative systems.
 
+## Materials
+- [Class Syllabus](https://drive.google.com/open?id=1_laTSoiTFtK-yFdr_VzlHv-rbj4LvzoVqEOxR97D5vg)
+- [Getting Started with p5.js by Lauren McCarthy](https://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772)
+- p5.js: <http://p5js.org>
+
 ## 2019 Assignments
 - [Assignment 01](https://github.com/lsudigitalart/2019-2210-hw1) [(Example)](https://github.com/lsudigitalart/2019-2210-hw1-fredeerock) [(Invite)](https://classroom.github.com/a/YckizPdM) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw1) 
 
@@ -22,30 +27,25 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - [Assignment 12](https://github.com/lsudigitalart/2210hw12) [(Submissions)](https://github.com/lsudigitalart?q=2210hw12)  [(Example)](https://github.com/lsudigitalart/2210hw12-fredeerock)
 - [Assignment 13](https://github.com/lsudigitalart/2210hw13) [(Submissions)](https://github.com/lsudigitalart?q=2210hw13)  [(Example)](https://github.com/lsudigitalart/2210hw13-fredeerock)
 
-## Dependencies
-- [Class Syllabus](https://drive.google.com/open?id=1_laTSoiTFtK-yFdr_VzlHv-rbj4LvzoVqEOxR97D5vg)
-- [Getting Started with p5.js by Lauren McCarthy](https://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772)
-- Visual Studio Code: <https://code.visualstudio.com>
-- Git: <https://git-scm.com>
-- p5.js: <http://p5js.org>
+## Procedures
 
-## Notes
-
-### Set up a p5.js project
-1. `cd /to/where/you/store/your/classwork`
-2. `mkdir <folder name>` to create a new folder for your project.
-3. `touch index.html` to create an empty index.html file.
-4. `touch sketch.js` to create an empty sketch.js file.
-5. `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js` to download p5.js to your project folder.
-6. Open the **folder** in your text editor using `File > Open` or by using something like `code .` in terminal if you're using VS Code and have command line capabilities installed.
+### The follosing assumes a few things
+1. First, that you have Git installed. This can be downloaded from here: <https://git-scm.com>.
+2. Second, that you have a useful text editor you can code in like Visual Studio Code, <https://code.visualstudio.com>. 
 
 ### To work on your HW
-1. Click the assignment invite button on this page to have GitHub automatically create a repo for you. Note the URL given to you on this page.
-1. Open Terminal (Mac) or Git Bash (Windows).
-1. `cd /to/where/you/store/your/classwork`
+1. Click the assignment **invite** button on this page to have GitHub automatically create a repo for you. Note the *repository URL* given to you here.
+1. Open **Terminal** (Mac) or **Git Bash** (Windows).
+1. `cd /to/where/you/store/your/classwork` For instance, your (My) Documents folder would work well.
 1. `git clone <repository url>` The URL here should be for the repo GitHub made for you in the first step. 
 1. `cd /to/the/name/of/your/repo`
 1. Now you're ready to work on your code!
+
+### Set up a p5.js project
+1. Use `touch index.html` in terminal to create an empty index.html file or use your file editor to make a new file named index.html.
+1. Use `touch sketch.js` in terminal to create an empty sketch.js file or use your file editor to make a new file named sketch.js.
+1. In terminal use `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js` to download p5.js to your project folder.
+1. Open the **folder** in your text editor using `File > Open` or by using something like `code .` in terminal if you're using VS Code and have command line capabilities installed.
 
 ### To upload your code to GitHub
 1. `git add -A` This lets GitHub know you want all your files to be added. If you're already run this before and there isn't anything new you don't have to run it again. 
