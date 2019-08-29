@@ -51,12 +51,12 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
   - `git commit -m "your message here"`
 1. *when you add or delete files...*
   - `git add -A`
-
-~~### To create a website from your code~~
-~~1. `cd /your/code/directory/here`~~
-~~2. `git checkout -b "gh-pages"`~~
-~~3. `git push --set-upstream origin gh-pages`~~
-~~4. visit your website at: http://lsudigitalart.github.io/\<your repo name\>~~
+  
+### To create a website from your GitHub code
+1. Go to your GitHub repo website.
+2. Click Settings and scroll down to GitHub pages.
+3. Under source choose your master branch.
+4. Visit your website at: http://lsudigitalart.github.io/\<your repo name\>
 
 ### Helpful Bash Commands
 - Display the present working directory: `pwd`
