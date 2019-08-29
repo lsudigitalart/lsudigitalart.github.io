@@ -5,7 +5,7 @@ layout: default
 ART 2210 Creative Coding is an applied course that focuses on creating internet based projects that impact media and culture. Students will learn current web design and development workflows with an emphasis on networked interaction and visualization. Current trends in online media will be examined with special attention paid to how projects can exist on multiple platforms such as mobile phones, tablets, and desktop computers. Through in-class exercises, projects, critique, hands-on workshops, readings and discussion we will explore the role of the digital artist/designer in a constantly evolving digital landscape. Students will develop an understanding of web technologies in order to implement creative systems.
 
 ## 2019 Assignments
-- [Assignment 01](https://github.com/lsudigitalart/2019-2210-hw1) [(Example)](https://github.com/lsudigitalart/2019-2210-hw1-fredeerock) [(Invite)](https://classroom.github.com/a/YckizPdM) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw1)
+- [Assignment 01](https://github.com/lsudigitalart/2019-2210-hw1) [(Example)](https://github.com/lsudigitalart/2019-2210-hw1-fredeerock) [(Invite)](https://classroom.github.com/a/YckizPdM) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw1) 
 
 ## 2016 Assignments
 - [Assignment 01](https://github.com/lsudigitalart/lsuart2210-hw-01) [(Submissions)](https://github.com/lsudigitalart?q=hw-01) [(Example)](https://github.com/lsudigitalart/2210-hw-01-fredeerock)
