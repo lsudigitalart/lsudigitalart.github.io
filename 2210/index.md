@@ -31,6 +31,10 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 
 ## Notes
 
+### Video Example
+
+<iframe src="https://drive.google.com/file/d/1RWMiqH6utsOane_Dy8lBpJgF67fsXnAC/view" width="640" height="480"></iframe>
+
 ### Set up a p5.js project
 1. `cd /to/your/repo`
 3. `touch index.html`
