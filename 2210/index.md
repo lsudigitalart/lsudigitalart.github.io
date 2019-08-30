@@ -114,6 +114,18 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 </html>
 ```
 
+### Empty Example of sketch.js
+
+```javascript
+function setup() {
+
+}
+
+function draw() {
+
+}
+```
+
 ## Resources
 
 ### Course Specific
