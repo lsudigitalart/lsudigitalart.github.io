@@ -30,8 +30,8 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 ## Procedures
 
 ### The follosing assumes a few things
-1. First, that you have **Git** installed. This can be downloaded from here: <https://git-scm.com>.
-2. Second, that you have a useful **text editor** you can code in like Visual Studio Code, <https://code.visualstudio.com>. 
+1. First, make sure that you have **Git** installed. This can be downloaded from here: <https://git-scm.com>.
+2. Second, make sure that you have a useful **text editor** you can code in like Visual Studio Code, <https://code.visualstudio.com>. 
 
 ### To work on your HW
 1. Click the assignment **invite** button on this page to have GitHub automatically create a repo for you. Note the *repository URL* given to you here.
@@ -106,8 +106,10 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 <!doctype html>
 <html>
   <head>
+    <title>p5.js</title>
     <script src="p5.min.js"></script>
     <script src="sketch.js"></script>
+    <style> body {padding: 0; margin: 0;} </style>
   </head>
   <body>
   </body>
@@ -118,11 +120,11 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 
 ```javascript
 function setup() {
-
+  // Put things you want to run once in here. 
 }
 
 function draw() {
-
+  // Put things you want to over and over here. 
 }
 ```
 
