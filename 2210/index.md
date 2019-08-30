@@ -30,8 +30,8 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 ## Procedures
 
 ### The follosing assumes a few things
-1. First, that you have Git installed. This can be downloaded from here: <https://git-scm.com>.
-2. Second, that you have a useful text editor you can code in like Visual Studio Code, <https://code.visualstudio.com>. 
+1. First, that you have **Git** installed. This can be downloaded from here: <https://git-scm.com>.
+2. Second, that you have a useful **text editor** you can code in like Visual Studio Code, <https://code.visualstudio.com>. 
 
 ### To work on your HW
 1. Click the assignment **invite** button on this page to have GitHub automatically create a repo for you. Note the *repository URL* given to you here.
@@ -47,6 +47,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 1. Use `touch index.html` in terminal to create an empty index.html file or use your file editor to make a new file named index.html.
 1. Use `touch sketch.js` in terminal to create an empty sketch.js file or use your file editor to make a new file named sketch.js.
 1. In terminal use `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js` to download p5.js to your project folder.
+1. Now you should have a folder on your computer with files named **index.html**, **sketch.js**, and **p5.min.js**. See the "Scaffold" section below for a basic struture for the first 2 files.
 
 ### To upload your code to GitHub
 1. `git add -A` This lets GitHub know you want all your files to be added. If you're already run this before and there isn't anything new you don't have to run it again. 
@@ -58,6 +59,8 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 2. Click Settings and scroll down to GitHub pages.
 3. Under source choose your master branch.
 4. Visit your website at: http://lsudigitalart.github.io/\<your repo name\>
+
+## Notes
 
 ### Helpful Bash Commands
 - Display the present working directory: `pwd`
@@ -94,6 +97,22 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
   - `cd` into your sketch directory
   - Open command prompt or git bash and type `C:/Python27/python.exe -m SimpleHTTPServer`
   - visit your site at `http://localhost:8000`
+
+## Scaffold
+
+### Empty Example of index.html
+
+```html
+<!doctype html>
+<html>
+  <head>
+    <script src="p5.min.js"></script>
+    <script src="sketch.js"></script>
+  </head>
+  <body>
+  </body>
+</html>
+```
 
 ## Resources
 
