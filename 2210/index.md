@@ -4,8 +4,16 @@ layout: default
 # [&#8598;](/) [Creative Coding](.)
 ART 2210 Creative Coding is an applied course that focuses on creating internet based projects that impact media and culture. Students will learn current web design and development workflows with an emphasis on networked interaction and visualization. Current trends in online media will be examined with special attention paid to how projects can exist on multiple platforms such as mobile phones, tablets, and desktop computers. Through in-class exercises, projects, critique, hands-on workshops, readings and discussion we will explore the role of the digital artist/designer in a constantly evolving digital landscape. Students will develop an understanding of web technologies in order to implement creative systems.
 
+## Materials
+- [Class Syllabus](https://drive.google.com/open?id=1_laTSoiTFtK-yFdr_VzlHv-rbj4LvzoVqEOxR97D5vg)
+- [Getting Started with p5.js by Lauren McCarthy](https://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772)
+- p5.js: <http://p5js.org>
+
 ## 2019 Assignments
-- [Assignment 01](https://classroom.github.com/a/YckizPdM) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw1)
+- [Assignment 01](https://github.com/lsudigitalart/2019-2210-hw1) [(Example)](https://github.com/lsudigitalart/2019-2210-hw1-dostrenko) [(Invite)](https://classroom.github.com/a/YckizPdM) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw1) 
+- [Assignment 02](https://github.com/lsudigitalart/2019-2210-hw2) [(Example)](https://github.com/lsudigitalart/2019-2210-hw2-dostrenko) [(Invite)](https://classroom.github.com/a/C6uN726k) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw2) 
+
+
 
 ## 2016 Assignments
 - [Assignment 01](https://github.com/lsudigitalart/lsuart2210-hw-01) [(Submissions)](https://github.com/lsudigitalart?q=hw-01) [(Example)](https://github.com/lsudigitalart/2210-hw-01-fredeerock)
@@ -22,14 +30,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - [Assignment 12](https://github.com/lsudigitalart/2210hw12) [(Submissions)](https://github.com/lsudigitalart?q=2210hw12)  [(Example)](https://github.com/lsudigitalart/2210hw12-fredeerock)
 - [Assignment 13](https://github.com/lsudigitalart/2210hw13) [(Submissions)](https://github.com/lsudigitalart?q=2210hw13)  [(Example)](https://github.com/lsudigitalart/2210hw13-fredeerock)
 
-## Dependencies
-- [Class Syllabus](https://drive.google.com/open?id=1_laTSoiTFtK-yFdr_VzlHv-rbj4LvzoVqEOxR97D5vg)
-- [Getting Started with p5.js by Lauren McCarthy](https://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772)
-- Visual Studio Code: <https://code.visualstudio.com>
-- Git: <https://git-scm.com>
-- p5.js: <http://p5js.org>
-
-## Notes
+## Procedures
 
 ### Video Example
 
@@ -42,25 +43,38 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 5. `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js`
 6. `code .`
 
+### The follosing assumes a few things
+1. First, make sure that you have **Git** installed. This can be downloaded from here: <https://git-scm.com>.
+2. Second, make sure that you have a useful **text editor** you can code in like Visual Studio Code, <https://code.visualstudio.com>. 
+
 ### To work on your HW
-1. Open terminal.
-1. `cd /to/where/you/store/your/classwork`
-1. `git clone` your github repo
-1. `cd /to/the/name/of/your/repo`
-1. Work on your code, see "set up p5.js" below.
-1. `git add -A` to stage your files
-1. `git commit -m "your message here"`
-1. `git push`
-1. *when you make changes...*
-  - `git commit -m "your message here"`
-1. *when you add or delete files...*
-  - `git add -A`
+1. Click the assignment **invite** button on this page to have GitHub automatically create a repo for you. Note the *repository URL* given to you here.
+1. Open **Terminal** (Mac) or **Git Bash** (Windows).
+1. `cd /to/where/you/store/your/classwork` For instance, a "Creative Coiding" folder inside "(My) Documents" would work well.
+1. `git clone <repository url>` The URL here should be for the repo GitHub made for you in the first step. 
+1. `ls` to get the names of the files in this folder
+1. `cd /to/the/name/of/your/repo` You can see what your repo is called from the output of the previous command.
+1. Now you're ready to work on your code!
+
+### Set up a p5.js project
+1. Open the repo **folder** in your text editor with `File > Open` or by using something like `code .` in terminal if you're using VS Code and have command line capabilities installed.
+1. Use `touch index.html` in terminal to create an empty index.html file or use your file editor to make a new file named index.html.
+1. Use `touch sketch.js` in terminal to create an empty sketch.js file or use your file editor to make a new file named sketch.js.
+1. In terminal use `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js` to download p5.js to your project folder.
+1. Now you should have a folder on your computer with files named **index.html**, **sketch.js**, and **p5.min.js**. See the "Scaffold" section below for a basic struture for the first 2 files.
+
+### To upload or make changes to your code on GitHub
+1. `git add -A` This lets GitHub know you want all your files to be added. If you're already run this before and there isn't anything new you don't have to run it again. 
+1. `git commit -am "your message here"` This creates a snapshot of the changes you've made along with a message describing them.  
+1. `git push` This uploads your code to GitHub.
   
 ### To create a website from your GitHub code
 1. Go to your GitHub repo website.
-2. Click Settings and scroll down to GitHub pages.
-3. Under source choose your master branch.
-4. Visit your website at: http://lsudigitalart.github.io/\<your repo name\>
+2. Click **Settings** and scroll down to **GitHub Pages**.
+3. Under **source** choose your **master** branch.
+4. Visit your website at: **http://lsudigitalart.github.io/\<your repo name\>**
+
+## Notes
 
 ### Helpful Bash Commands
 - Display the present working directory: `pwd`
@@ -97,6 +111,35 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
   - `cd` into your sketch directory
   - Open command prompt or git bash and type `C:/Python27/python.exe -m SimpleHTTPServer`
   - visit your site at `http://localhost:8000`
+
+## Scaffold
+
+### Empty Example of index.html
+
+```html
+<!doctype html>
+<html>
+  <head>
+    <title>p5.js</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
+    <script src="sketch.js"></script>
+  </head>
+  <body>
+  </body>
+</html>
+```
+
+### Empty Example of sketch.js
+
+```javascript
+function setup() {
+  // Put things you want to run once in here. 
+}
+
+function draw() {
+  // Put things you want to over and over here. 
+}
+```
 
 ## Resources
 
