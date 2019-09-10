@@ -54,7 +54,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 1. In terminal use `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js` to download p5.js to your project folder.
 1. Now you should have a folder on your computer with files named **index.html**, **sketch.js**, and **p5.min.js**. See the "Scaffold" section below for a basic struture for the first 2 files.
 
-### To upload or make changes to your code on GitHub   
+### To upload or make changes to your code on GitHub
 1. `git add -A` This lets GitHub know you want all your files to be added. If you're already run this before and there isn't anything new you don't have to run it again. 
 1. `git commit -am "your message here"` This creates a snapshot of the changes you've made along with a message describing them.  
 1. `git push` This uploads your code to GitHub.
