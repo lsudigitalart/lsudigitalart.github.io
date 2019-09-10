@@ -13,8 +13,6 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - [Assignment 01](https://github.com/lsudigitalart/2019-2210-hw1) [(Example)](https://github.com/lsudigitalart/2019-2210-hw1-dostrenko) [(Invite)](https://classroom.github.com/a/YckizPdM) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw1) 
 - [Assignment 02](https://github.com/lsudigitalart/2019-2210-hw2) [(Example)](https://github.com/lsudigitalart/2019-2210-hw2-dostrenko) [(Invite)](https://classroom.github.com/a/C6uN726k) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw2) 
 
-
-
 ## 2016 Assignments
 - [Assignment 01](https://github.com/lsudigitalart/lsuart2210-hw-01) [(Submissions)](https://github.com/lsudigitalart?q=hw-01) [(Example)](https://github.com/lsudigitalart/2210-hw-01-fredeerock)
 - [Assignment 02](https://github.com/lsudigitalart/2210hw2)  [(Submissions)](https://github.com/lsudigitalart?q=2210hw2)   [(Example)](https://github.com/lsudigitalart/2210hw2-fredeerock)
@@ -32,16 +30,9 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 
 ## Procedures
 
-### Video Example
+### Video Guide
 
-<iframe src="https://drive.google.com/file/d/1RWMiqH6utsOane_Dy8lBpJgF67fsXnAC/view" width="640" height="480"></iframe>
-
-### Set up a p5.js project
-1. `cd /to/your/repo`
-3. `touch index.html`
-4. `touch sketch.js`
-5. `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js`
-6. `code .`
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m9bkMiq-SYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### The follosing assumes a few things
 1. First, make sure that you have **Git** installed. This can be downloaded from here: <https://git-scm.com>.
@@ -63,7 +54,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 1. In terminal use `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js` to download p5.js to your project folder.
 1. Now you should have a folder on your computer with files named **index.html**, **sketch.js**, and **p5.min.js**. See the "Scaffold" section below for a basic struture for the first 2 files.
 
-### To upload or make changes to your code on GitHub
+### To upload or make changes to your code on GitHub   
 1. `git add -A` This lets GitHub know you want all your files to be added. If you're already run this before and there isn't anything new you don't have to run it again. 
 1. `git commit -am "your message here"` This creates a snapshot of the changes you've made along with a message describing them.  
 1. `git push` This uploads your code to GitHub.
