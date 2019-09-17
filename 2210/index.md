@@ -46,8 +46,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 1. `git clone <repository url>` The URL here should be for the repo GitHub made for you in the first step. 
 1. `ls` to get the names of the files in this folder
 1. `cd /to/the/name/of/your/repo` You can see what your repo is called from the output of the previous command.
-1. `code .` Now you're ready to work on your code! You can use this command to open up VS Code or use `File > Open` in a text editor of your choosing.
-1. 1. Proceed to the next section for setting up your p5.js project.
+1. Now you're ready to set up your p5.js project! Proceed to the next section for instructions.
 
 ### Set up a p5.js project (in Terminal)
 1. Open the repo **folder** in your text editor with `File > Open` or by using something like `code .` in terminal if you're using VS Code and have command line capabilities installed.
@@ -55,6 +54,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 1. Use `touch sketch.js` in terminal to create an empty sketch.js file or use your file editor to make a new file named sketch.js.
 1. In terminal use `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js` to download p5.js to your project folder.
 1. Now you should have a folder on your computer with files named **index.html**, **sketch.js**, and **p5.min.js**. See the "Scaffold" section below for a basic struture for the first 2 files.
+1. Now you're ready to start coding!
 
 ### Set up a p5.js project (in VS Code)
 Video coming soon.
