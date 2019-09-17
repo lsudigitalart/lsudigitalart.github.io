@@ -46,7 +46,8 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 1. `git clone <repository url>` The URL here should be for the repo GitHub made for you in the first step. 
 1. `ls` to get the names of the files in this folder
 1. `cd /to/the/name/of/your/repo` You can see what your repo is called from the output of the previous command.
-1. `code .` Now you're ready to work on your code! You can use this command to open up VS Code.
+1. `code .` Now you're ready to work on your code! You can use this command to open up VS Code or use `File > Open` in a text editor of your choosing.
+1. 1. Proceed to the next section for setting up your p5.js project.
 
 ### Set up a p5.js project
 1. Open the repo **folder** in your text editor with `File > Open` or by using something like `code .` in terminal if you're using VS Code and have command line capabilities installed.
