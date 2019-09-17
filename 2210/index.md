@@ -138,6 +138,12 @@ function draw() {
 }
 ```
 
+### Download Scaffold
+
+```bash
+curl -L https://github.com/fredeerock/p5js_starter/archive/master.zip | tar xz
+```
+
 ## Resources
 
 ### Course Specific
@@ -167,7 +173,7 @@ function draw() {
 - <https://github.com/processing/p5.js/wiki/Terminal-and-the-Command-Line>
 - <http://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855>
 
-### Some Creative Coders
+### Some Creative Coders (2016)
 - [Casey Reas](https://duckduckgo.com/?q=!ducky+Casey Reas)
 - [Olia Lialina](https://duckduckgo.com/?q=!ducky+Olia Lialina)
 - [John Maeda](https://duckduckgo.com/?q=!ducky+John Maeda)
