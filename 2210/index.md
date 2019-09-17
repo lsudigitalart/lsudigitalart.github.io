@@ -143,13 +143,13 @@ function draw() {
 **Plain**  
 Pretty much the basics.
 ```bash
-curl -L https://github.com/fredeerock/p5js_starter/archive/master.zip | tar xz
+curl -L https://github.com/fredeerock/p5js_starter/archive/master.zip | tar xz --strip=1
 ```
 
 **Featured**  
 This has a VS Code debugging config as well as a bit more starter code. 
 ```bash
-curl -L https://github.com/fredeerock/p5js_starter/archive/debug.zip | tar xz
+curl -L https://github.com/fredeerock/p5js_starter/archive/debug.zip | tar xz --strip=1
 ```
 
 ## Resources
