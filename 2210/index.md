@@ -49,12 +49,15 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 1. `code .` Now you're ready to work on your code! You can use this command to open up VS Code or use `File > Open` in a text editor of your choosing.
 1. 1. Proceed to the next section for setting up your p5.js project.
 
-### Set up a p5.js project
+### Set up a p5.js project (in Terminal)
 1. Open the repo **folder** in your text editor with `File > Open` or by using something like `code .` in terminal if you're using VS Code and have command line capabilities installed.
 1. Use `touch index.html` in terminal to create an empty index.html file or use your file editor to make a new file named index.html.
 1. Use `touch sketch.js` in terminal to create an empty sketch.js file or use your file editor to make a new file named sketch.js.
 1. In terminal use `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js` to download p5.js to your project folder.
 1. Now you should have a folder on your computer with files named **index.html**, **sketch.js**, and **p5.min.js**. See the "Scaffold" section below for a basic struture for the first 2 files.
+
+### Set up a p5.js project (in VS Code)
+Video coming soon.
 
 ### To upload or make changes to your code on GitHub 
 1. `git add -A` This lets GitHub know you want all your files to be added. If you're already run this before and there isn't anything new you don't have to run it again. 
