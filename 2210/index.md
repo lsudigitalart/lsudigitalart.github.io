@@ -63,7 +63,7 @@ Video coming soon.
 1. `git add -A` This lets GitHub know you want all your files to be added. If you're already run this before and there isn't anything new you don't have to run it again. 
 1. `git commit -am "your message here"` This creates a snapshot of the changes you've made along with a message describing them.  
 1. `git push` This uploads your code to GitHub.
-1. Your code is now online. Use `git remote -v` to see your repos URL.
+1. Your code is now online. Use `git config --get remote.origin.url` to see your repos URL.
   
 ### To create a website from your GitHub code
 1. Go to your GitHub repo website.
