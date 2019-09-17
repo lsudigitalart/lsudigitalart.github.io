@@ -35,7 +35,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m9bkMiq-SYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### The follosing assumes a few things
+### The following assumes a few things
 1. First, make sure that you have **Git** installed. This can be downloaded from here: <https://git-scm.com>.
 2. Second, make sure that you have a useful **text editor** you can code in like Visual Studio Code, <https://code.visualstudio.com>. 
 
