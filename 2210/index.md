@@ -140,8 +140,14 @@ function draw() {
 
 ### Download Scaffold
 
+Plain:
 ```bash
 curl -L https://github.com/fredeerock/p5js_starter/archive/master.zip | tar xz
+```
+
+Debuggig:
+```bash
+curl -L https://github.com/fredeerock/p5js_starter/archive/debug.zip | tar xz
 ```
 
 ## Resources
