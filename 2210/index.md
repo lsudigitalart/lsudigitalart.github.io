@@ -97,13 +97,13 @@ Video coming soon.
 
 ### Start a server
 
-**Mac**
+#### Mac
 1. Open Terminal
 1. `cd` into your sketch directory
 1. Type `python -m SimpleHTTPServer`
 1. Visit your site at `http://localhost:8000`
 
-**Windows**
+#### Windows
 1. Download and Install Python 2 from python.org
 1. `cd` into your sketch directory
 1. Open command prompt or git bash and type `C:/Python27/python.exe -m SimpleHTTPServer`
@@ -140,13 +140,13 @@ function draw() {
 
 ### Download Scaffold
 
-**Plain**
+#### Plain
 Pretty much the basics.
 ```bash
 curl -L https://github.com/fredeerock/p5js_starter/archive/master.zip | tar xz
 ```
 
-**Featured**
+#### Featured
 This has a VS Code debugging config as well as a bit more starter code. 
 ```bash
 curl -L https://github.com/fredeerock/p5js_starter/archive/debug.zip | tar xz
