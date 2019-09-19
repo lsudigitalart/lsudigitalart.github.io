@@ -10,9 +10,10 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - p5.js: <http://p5js.org>
 
 ## 2019 Assignments
-- [Assignment 01](https://github.com/lsudigitalart/2019-2210-hw1) [(Example)](https://github.com/lsudigitalart/2019-2210-hw1-dostrenko) [(Invite)](https://classroom.github.com/a/YckizPdM) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw1) 
-- [Assignment 02](https://github.com/lsudigitalart/2019-2210-hw2) [(Example)](https://github.com/lsudigitalart/2019-2210-hw2-dostrenko) [(Invite)](https://classroom.github.com/a/C6uN726k) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw2)
-- [Assignment 03](https://github.com/lsudigitalart/2019-2210-hw3) [(Example)](https://github.com/lsudigitalart/2019-2210-hw3-dostrenko) [(Invite)](https://classroom.github.com/a/erFnBb2P) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw3) 
+- [Assignment 01](https://github.com/lsudigitalart/2019-2210-hw1) [(Example)](https://github.com/lsudigitalart/2019-2210-hw1-fredeerock) [(Invite)](https://classroom.github.com/a/YckizPdM) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw1) 
+- [Assignment 02](https://github.com/lsudigitalart/2019-2210-hw2) [(Example)](https://github.com/lsudigitalart/2019-2210-hw2-fredeerock) [(Invite)](https://classroom.github.com/a/C6uN726k) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw2)
+- [Assignment 03](https://github.com/lsudigitalart/2019-2210-hw3) [(Example)](https://github.com/lsudigitalart/2019-2210-hw3-fredeerock) [(Invite)](https://classroom.github.com/a/erFnBb2P) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw3)
+- [Assignment 04](https://github.com/lsudigitalart/2019-2210-hw4) [(Example)](https://github.com/lsudigitalart/2019-2210-hw4-fredeerock) [(Invite)](https://classroom.github.com/a/erFnBb2P) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw4) 
 
 ## 2016 Assignments
 - [Assignment 01](https://github.com/lsudigitalart/lsuart2210-hw-01) [(Submissions)](https://github.com/lsudigitalart?q=hw-01) [(Example)](https://github.com/lsudigitalart/2210-hw-01-fredeerock)
