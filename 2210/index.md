@@ -16,8 +16,6 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - [Assignment 04](https://github.com/lsudigitalart/2019-2210-hw4) [(Example)](https://github.com/lsudigitalart/2019-2210-hw4-fredeerock) [(Invite)](https://classroom.github.com/a/ZJPg5V7q) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw4) 
 - [Assignment 05](https://github.com/lsudigitalart/2019-2210-hw5) [(Example)](https://github.com/lsudigitalart/2019-2210-hw5-fredeerock) [(Invite)](https://classroom.github.com/a/ZVxpxMYx) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw5) 
 
-
-
 ## 2016 Assignments
 - [Assignment 01](https://github.com/lsudigitalart/lsuart2210-hw-01) [(Submissions)](https://github.com/lsudigitalart?q=hw-01) [(Example)](https://github.com/lsudigitalart/2210-hw-01-fredeerock)
 - [Assignment 02](https://github.com/lsudigitalart/2210hw2)  [(Submissions)](https://github.com/lsudigitalart?q=2210hw2)   [(Example)](https://github.com/lsudigitalart/2210hw2-fredeerock)
@@ -214,7 +212,7 @@ curl -L https://github.com/fredeerock/p5js_starter/archive/debug.zip | tar xz --
 - [Jer Thorp](https://duckduckgo.com/?q=!ducky+Jer Thorp)
 - [Emily Gobeille](https://duckduckgo.com/?q=!ducky+Emily Gobeille)
 - [Ryoji Ikeda](https://duckduckgo.com/?q=!ducky+Ryoji Ikeda)
-- [Rafael Lozano-Hemmer](https://duckduckgo.com/?q=!ducky+Rafael Lozano-Hemmer)
+- [Rafaël Rozendaal](https://duckduckgo.com/?q=!ducky+Rafaël Rozendaal)
 - [David Rokeby](https://duckduckgo.com/?q=!ducky+David Rokeby)
 - [Eduardo Kac](https://duckduckgo.com/?q=!ducky+Eduardo Kac)
 - [Mark Nappier](https://duckduckgo.com/?q=!ducky+Mark Nappier)
@@ -226,8 +224,10 @@ curl -L https://github.com/fredeerock/p5js_starter/archive/debug.zip | tar xz --
 - [Jonah Brucker-Cohen](https://duckduckgo.com/?q=!ducky+Jonah Brucker-Cohen)
 
 ### Inspiration
-- http://eyeofestival.com/
-- https://processing.org/exhibition
-- Rhizome
-- Creative Applications
+- [Eyeo](http://eyeofestival.com/)
+- [Processing Exhibition Page](https://processing.org/exhibition)
+- [Rhizome](https://rhizome.org/)
+- [Creative Applications](https://www.creativeapplications.net/)
+- [OpenProcessing](https://www.openprocessing.org)
+- [F.A.T. Lab](http://fffff.at/)
 - ...
