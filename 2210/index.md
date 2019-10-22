@@ -17,6 +17,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - [Assignment 05](https://github.com/lsudigitalart/2019-2210-hw5) [(Example)](https://github.com/lsudigitalart/2019-2210-hw5-fredeerock) [(Invite)](https://classroom.github.com/a/ZVxpxMYx) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw5) 
 - [Assignment 06](https://github.com/lsudigitalart/2019-2210-hw6) [(Example)](https://github.com/lsudigitalart/2019-2210-hw5-fredeerock) [(Invite)](https://classroom.github.com/a/JKhGkjAg) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw6)
 - [Assignment 07](https://github.com/lsudigitalart/2019-2210-hw7) [(Example)](https://github.com/lsudigitalart/2019-2210-hw7-fredeerock) [(Invite)](https://classroom.github.com/a/jlbRzBbp) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw7)
+- [Assignment 08](https://github.com/lsudigitalart/2019-2210-hw8) [(Example)](https://github.com/lsudigitalart/2019-2210-hw8-fredeerock) [(Invite)](https://classroom.github.com/a/W3ltIHlL) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw8)
 
 ## 2016 Assignments
 - [Assignment 01](https://github.com/lsudigitalart/lsuart2210-hw-01) [(Submissions)](https://github.com/lsudigitalart?q=hw-01) [(Example)](https://github.com/lsudigitalart/2210-hw-01-fredeerock)
