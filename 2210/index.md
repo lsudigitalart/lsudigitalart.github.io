@@ -9,6 +9,9 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - [Getting Started with p5.js by Lauren McCarthy](https://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772)
 - p5.js: <http://p5js.org>
 
+## 2024 Assignments
+- Assignment 01: [(Invite)](https://classroom.github.com/a/K4_1T8jh)
+
 ## 2019 Assignments
 - [Assignment 01](https://github.com/lsudigitalart/2019-2210-hw1) [(Example)](https://github.com/lsudigitalart/2019-2210-hw1-fredeerock) [(Invite)](https://classroom.github.com/a/YckizPdM) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw1) 
 - [Assignment 02](https://github.com/lsudigitalart/2019-2210-hw2) [(Example)](https://github.com/lsudigitalart/2019-2210-hw2-fredeerock) [(Invite)](https://classroom.github.com/a/C6uN726k) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw2)
