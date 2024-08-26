@@ -64,7 +64,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 1. Open the repo **folder** in your text editor with `File > Open` or by using something like `code .` in terminal if you're using VS Code and have command line capabilities installed.
 1. Use `touch index.html` in terminal to create an empty index.html file or use your file editor to make a new file named index.html.
 1. Use `touch sketch.js` in terminal to create an empty sketch.js file or use your file editor to make a new file named sketch.js.
-1. In terminal use `curl -LO https://github.com/processing/p5.js/releases/download/0.9.0/p5.min.js` to download p5.js to your project folder.
+1. In terminal use `curl -LO https://github.com/processing/p5.js/releases/download/v1.10.0/p5.min.js` to download p5.js to your project folder.
 1. Now you should have a folder on your computer with files named **index.html**, **sketch.js**, and **p5.min.js**. See the "Scaffold" section below for a basic struture for the first 2 files.
 1. Now you're ready to start coding!
 
