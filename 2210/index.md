@@ -86,9 +86,10 @@ Video coming soon.
 ## Notes
 
 ### Troubleshooting
-If VS Code or Git throws an error that says **"Make sure to configure your user.name and user.email in Git."** open terminal and put in the following 2 lines separately pressing enter after each one. Make sure to use your LSU email address.
+If VS Code or Git throws an error that says **"Make sure to configure your user.name and user.email in Git."** open terminal in your assignment directory and put in the following git config commands separately pressing enter after each one. Make sure to use your LSU email address.
 
-- `git config –global user.email “you@example.com”`
+- `cd into\your\assignment\directory`
+- `git config –global user.email “you@lsu.edu”`
 - `git config –global user.name “Your Name”`
 
 ### Helpful Bash Commands
