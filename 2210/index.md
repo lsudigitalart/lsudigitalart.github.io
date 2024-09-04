@@ -139,7 +139,7 @@ If VS Code or Git throws an error that says **"Make sure to configure your user.
 <html>
   <head>
     <title>p5.js</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.min.js"></script>
     <script src="sketch.js"></script>
   </head>
   <body>
