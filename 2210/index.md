@@ -138,7 +138,7 @@ If VS Code or Git throws an error that says **"Make sure to configure your user.
 <!doctype html>
 <html>
   <head>
-    <title>p5.js</title>
+    <title>Assignment ## - First Name Last Initial</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.min.js"></script>
     <script src="sketch.js"></script>
   </head>
