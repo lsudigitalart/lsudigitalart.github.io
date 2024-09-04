@@ -10,6 +10,8 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - p5.js: <http://p5js.org>
 
 ## 2024 Assignments
+- [Homework 01](https://classroom.github.com/a/K4_1T8jh)
+- [Homework 02](https://classroom.github.com/a/jtVStpfj)
 - All Assignemnt Invites: [Click Here](https://classroom.github.com/classrooms/15109192-2024-fall-creative-coding)
 
 ## 2019 Assignments
