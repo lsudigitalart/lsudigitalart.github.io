@@ -15,6 +15,7 @@ ART 2210 Creative Coding is an applied course that focuses on creating internet 
 - [Assignment 03](https://classroom.github.com/a/_oMRnG17) [(Example)](https://github.com/lsudigitalart/2210-hw03-fredeerock) - Due 09/23
 - [Assignment 04](https://classroom.github.com/a/EEBP0TfP) [(Example)](https://github.com/lsudigitalart/2210-hw04-fredeerock) - Due 09/30
 - [Assignment 05](https://classroom.github.com/a/_uE2AeWL) [(Example)](https://github.com/lsudigitalart/2019-2210-hw5-fredeerock-1) - Due 10/09
+- [Assignment 06](https://classroom.github.com/a/egeQisIN) [(Example)](https://classroom.github.com/a/egeQisIN) - Due 10/16
 
 ## 2019 Assignments
 - [Assignment 01](https://github.com/lsudigitalart/2019-2210-hw1) [(Example)](https://github.com/lsudigitalart/2019-2210-hw1-fredeerock) [(Invite)](https://classroom.github.com/a/YckizPdM) [(Submissions)](https://github.com/lsudigitalart?q=2019-2210-hw1) 
